@@ -1,0 +1,28 @@
+.container{
+    background-color: #F6F0EA;
+    border: 1px solid grey;
+}
+
+h1 {
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.feed{
+    margin-right: 50px;
+}
+
+.play{
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
