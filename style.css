@@ -8,18 +8,26 @@ h1 {
 }
 
 .flex{
+    
+    /*
     display: flex;
     justify-content: center;
+    */
+    padding:3em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
 }
 
 .feed{
     margin-right: 50px;
+    padding:1em;
 }
 
 .play{
     margin-left: 50px;
+    padding:1em;
 }
-
 
 
 
